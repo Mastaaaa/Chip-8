@@ -1,5 +1,5 @@
 //
-//  Emulator.cpp
+//  Processor.cpp
 //  Chip-8
 //
 //

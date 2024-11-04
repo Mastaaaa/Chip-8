@@ -1,5 +1,5 @@
 //
-//  Emulator.h
+//  Processor.h
 //  Chip-8
 //
 //
